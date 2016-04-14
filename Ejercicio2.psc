@@ -1,6 +1,8 @@
-Proceso sin_titulo
+Proceso Suma_de_multiplos
+	//Inicializacion de Variables
 	cont<-0;
 	acum<-0;
+	escribir "A Continuacion, se hara una suma de multiplos"
 	escribir "Presione una tecla para continuar";
 	esperar Tecla
 	Repetir
